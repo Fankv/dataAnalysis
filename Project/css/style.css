@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body
+{
+	margin: 0 auto;
+	font-family: 微软雅黑，sans-serif；
+}
+
+#logo
+{
+	margin: 10px 50px;
+}
+
+.nav-menu-container a,a:hover,a:visited
+{
+	text-decoration: none;
+	color: yellow;
+	text-align: center;
+	display: block;
+}
+
+.nav-menu
+{
+	list-style-type: none;
+}
+
+.nav-menu li
+{
+	float: left;
+	margin: 0 50px;
+	height: 30px;
+	padding: 5px 5px;
+}
+
+.nav-menu li a:hover
+{
+	background-color: rgba(191,191,191,70%);
+}
+
+.nav-submenu
+{
+	display: none;
+	list-style-type: none;
+	padding: 0px;
+}
+
+.nav-submenu li
+{
+	float: none;
+	height: 30px;
+	margin: 0 -30px;
+	list-style-type: none;
+	background-color: black;
+}
+
+
+.nav-submenu li a:hover
+{
+	background-color: rgba(191,191,191,70%);
+}
