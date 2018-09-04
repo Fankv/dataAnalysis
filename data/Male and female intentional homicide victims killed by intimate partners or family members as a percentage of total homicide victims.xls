@@ -1,0 +1,4623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+		<Author/>
+		<Title>Male and female intentional homicide victims killed by intimate partners or family members as a percentage of total homicide victims, by country/ territory</Title>
+		<Description>Copyright (c) 2012 UNODC</Description>
+		<Subject/>
+	</DocumentProperties>
+	<Styles>
+		<Style ss:ID="HyperlinkId" ss:Name="Hyperlink">
+			<Font ss:Color="#0000ff"/>
+		</Style>
+		<Style ss:ID="23" ss:Parent="HyperlinkId">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Bold="1" ss:Italic="1" ss:Underline="Single" ss:Color="#0000ff"/>
+		</Style>
+		<Style ss:ID="1">
+			<NumberFormat ss:Format="yyyy-M-d HH:mm:ss AM/PM"/>
+		</Style>
+		<Style ss:ID="26">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Calibri" ss:Size="9.75" ss:Color="#000000"/>
+			<Interior ss:Color="#e8e8e8" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="29">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="22">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Italic="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="28">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="27">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Calibri" ss:Size="9.75" ss:Color="#000000"/>
+			<Interior ss:Color="#e8e8e8" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="21">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="20">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="17.28" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="25">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#b2daff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="24">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#b2daff" ss:Pattern="Solid"/>
+		</Style>
+	</Styles>
+	<Names>
+		<NamedRange ss:Name="__bookmark_1" ss:RefersTo="Male and female intentional hom!R1C1:R114C13"/>
+	</Names>
+
+<Worksheet ss:Name="Male and female intentional hom">
+	<ss:Table>
+		<ss:Column ss:Width="113.024" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="195.84" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="185.984" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="107.136" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="219.392" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="67.072" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="66.944" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="53.632" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="57.728" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="56.064" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="47.744" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="54.4" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="54.528" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="52.48" ss:AutoFitWidth="0"/>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="20" ss:MergeAcross="11">
+				<Data ss:Type="String">Male and female intentional homicide victims killed by intimate partners or family members as a percentage of total homicide victims, by country/ territory</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="21"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="22" ss:MergeAcross="6">
+				<Data ss:Type="String">Intentional homicide is defined as unlawful death inflicted upon a person with the intent to cause death or serious injury.</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="21"/>
+			<Cell ss:Index="9" ss:StyleID="21"/>
+			<Cell ss:Index="10" ss:StyleID="21"/>
+			<Cell ss:Index="11" ss:StyleID="21"/>
+			<Cell ss:Index="12" ss:StyleID="21"/>
+			<Cell ss:Index="13" ss:StyleID="21"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21"/>
+			<Cell ss:Index="2" ss:StyleID="21"/>
+			<Cell ss:Index="3" ss:StyleID="23" ss:HRef="http://www.unodc.org/documents/data-and-analysis/dataportal/GSH2013_IPFM.xlsx" ss:MergeAcross="1">
+				<Data ss:Type="String">Download Full Dataset</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="21"/>
+			<Cell ss:Index="6" ss:StyleID="24" ss:MergeAcross="7">
+				<Data ss:Type="String">Year</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25">
+				<Data ss:Type="String">Region</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="25">
+				<Data ss:Type="String">Sub Region</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="24">
+				<Data ss:Type="String">Country/ territory</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="24">
+				<Data ss:Type="String">Source</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="24">
+				<Data ss:Type="String">Indicator</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="24">
+				<Data ss:Type="String">2005</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="24">
+				<Data ss:Type="String">2006</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="24">
+				<Data ss:Type="String">2007</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="24">
+				<Data ss:Type="String">2008</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="24">
+				<Data ss:Type="String">2009</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="24">
+				<Data ss:Type="String">2010</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="24">
+				<Data ss:Type="String">2011</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="24">
+				<Data ss:Type="String">2012</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Mauritius</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">62.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">75.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">50.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Mauritius</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">31.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">24.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">26.9 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Middle Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Sao Tome and Principe</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Middle Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Sao Tome and Principe</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Egypt</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">12.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">52.1 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">53.8 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">55.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">56.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">27.8 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Egypt</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">42.2 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">15.9 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">12.4 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">13.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">6.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">4.6 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">South Africa</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">Medical Research Council</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">57.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">South Africa</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">Medical Research Council</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Bahamas</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">50.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">40.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">37.5 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">28.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">20.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">50.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">18.8 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Bahamas</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">9.1 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">8.9 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">20.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">7.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">10.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">6.3 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">9.9 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Dominican Republic</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">33.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">36.2 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Dominican Republic</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">1.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">1.5 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">11.3 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Grenada</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">33.3 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">50.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">80.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Grenada</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">25.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">11.1 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">11.1 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">7.1 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">11.1 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Jamaica</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">18.4 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">16.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">18.2 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">20.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">13.1 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">26.1 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Jamaica</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">2.8 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">3.2 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">2.1 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">2.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">3.1 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">7.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Saint Vincent and the Grenadines</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">25.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">75.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">33.3 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Saint Vincent and the Grenadines</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">11.1 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">3.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">23.1 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Trinidad and Tobago</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">46.8 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">26.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">35.8 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">28.9 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">34.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">24.1 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Trinidad and Tobago</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">3.4 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">3.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">3.4 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">2.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">2.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">4.1 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">El Salvador</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">2.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0.2 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">4.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">El Salvador</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0.2 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">0.3 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Nicaragua</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">37.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Nicaragua</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">3.3 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Panama</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">33.7 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">34.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">32.9 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">34.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">29.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">38.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">50.1 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">26.5 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Panama</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">1.2 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">1.8 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">4.1 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">1.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">1.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">2.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">2.5 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">4.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Canada</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">66.3 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">65.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">57.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">61.4 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">63.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">62.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">60.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Canada</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">12.1 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">17.4 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">14.9 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">16.9 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">16.2 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">16.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">14.4 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">United States of America</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">47.6 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">44.3 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">46.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">49.2 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">48.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">51.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">51.8 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">United States of America</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">8.2 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">8.4 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">8.2 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">8.9 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">9.3 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">9.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">9.7 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Chile</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">12.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">9.9 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">20.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">13.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">6.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">5.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">7.8 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Chile</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">1.4 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">2.4 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">2.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">2.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">1.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">2.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">2.5 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Colombia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">National Institute of Forensic Medicine</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">13.3 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Colombia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">National Institute of Forensic Medicine</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">1.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Guyana</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">32.8 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Guyana</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">7.3 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Uruguay</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">58.5 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Uruguay</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">8.2 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">China, Hong Kong SAR</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">76.9 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">77.8 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">81.8 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">56.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">76.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">68.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">88.9 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">China, Hong Kong SAR</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">28.6 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">23.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">14.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">54.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">27.3 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">50.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">50.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Mongolia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">10.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">30.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">11.9 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">9.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">3.3 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Mongolia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">7.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">10.4 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">10.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">3.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">2.9 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South-Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Singapore</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">60.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">18.2 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">57.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">33.3 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South-Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Singapore</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">7.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">12.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">23.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">6.3 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">India</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">National police</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">53.1 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">55.2 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">55.9 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">57.3 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">56.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">56.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">55.3 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">54.8 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">India</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">National police</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Armenia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">18.2 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">7.7 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">7.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">4.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">20.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">10.5 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Armenia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">4.3 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">3.8 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">4.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">3.4 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">3.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">8.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">4.3 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">2.9 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Azerbaijan</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">27.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Azerbaijan</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">11.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Cyprus</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">60.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Cyprus</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">23.5 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Georgia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Georgia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">2.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Czech Republic</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">69.1 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">61.4 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">55.3 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">64.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">70.5 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Czech Republic</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">40.8 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">40.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">64.3 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">52.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">52.4 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Hungary</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">67.1 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">48.6 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">73.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">63.8 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">73.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">55.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">60.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">58.2 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Hungary</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">24.1 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">29.3 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">37.4 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">37.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">44.7 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">29.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">25.5 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">22.1 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Romania</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">27.7 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">32.7 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">28.8 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">27.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">25.9 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">23.1 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">25.4 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Romania</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">22.4 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">22.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">18.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">22.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">18.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">17.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">17.4 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Finland</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">77.1 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">73.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">77.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">63.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">79.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">69.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">74.4 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Finland</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">13.4 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">19.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">13.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">15.7 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">17.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">14.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">18.7 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Iceland</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Iceland</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">50.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Latvia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">10.2 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Latvia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">6.4 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Lithuania</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">45.3 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">34.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">35.8 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">43.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">46.7 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">37.9 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">32.1 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Lithuania</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">15.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">7.8 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">14.7 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">9.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">13.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">15.9 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">12.1 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Sweden</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">National Council for Crime Prevention</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">65.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Sweden</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">National Council for Crime Prevention</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">12.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">United Kingdom</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">57.7 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">62.4 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">64.9 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">67.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">65.7 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">67.5 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">United Kingdom</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">14.1 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">15.8 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">15.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">15.2 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">16.3 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">13.7 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Albania</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">33.3 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">60.9 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">33.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">26.3 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">78.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">88.9 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Albania</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">9.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">12.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">12.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">9.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">5.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">4.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">9.7 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Andorra</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Andorra</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Bosnia and Herzegovina</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">70.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">56.3 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Bosnia and Herzegovina</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">25.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">14.3 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Croatia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">43.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">47.6 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Croatia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">26.7 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">32.1 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">45.5 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Italy</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">64.1 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">70.8 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">69.1 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">74.1 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">75.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">73.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">73.3 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Italy</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">16.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">15.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">15.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">17.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">16.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">18.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">21.1 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Malta</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">50.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Malta</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Montenegro</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Montenegro</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">22.2 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Slovenia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">40.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">33.3 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">75.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">80.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">71.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">37.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">71.4 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">83.3 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Slovenia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">50.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">12.5 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">40.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">16.7 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">28.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">11.1 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">12.5 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Spain</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">65.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">57.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">58.1 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Spain</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">17.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">12.4 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">12.2 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">The former Yugoslav Republic of Macedonia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">55.6 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">63.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">77.8 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">75.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">75.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">The former Yugoslav Republic of Macedonia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">21.6 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">12.9 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">23.1 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">34.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">10.7 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">19.2 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Austria</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">57.4 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">48.3 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">41.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">47.4 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">48.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">35.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">51.5 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Austria</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">19.8 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">11.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">13.5 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">11.8 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">13.7 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">15.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">21.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Germany</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">39.5 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">39.8 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">41.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">43.8 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">47.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">45.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">50.1 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Germany</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">19.7 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">22.2 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">25.5 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">23.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">24.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">24.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">23.0 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Liechtenstein</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Liechtenstein</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Luxembourg</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">80.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Luxembourg</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">25.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">20.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">20.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Oceania</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Australia and New Zealand</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Australia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">72.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">83.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">82.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">74.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">76.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Oceania</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Australia and New Zealand</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Australia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">32.1 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">33.9 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">28.5 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">26.3 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">27.3 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Oceania</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Australia and New Zealand</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">New Zealand</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">63.2 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">39.1 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">76.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">54.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">66.7 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Oceania</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Australia and New Zealand</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">New Zealand</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS (Victims)</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">24.1 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">21.4 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">38.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">35.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">20.8 %</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">15.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Oceania</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Polynesia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Tonga</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">National police</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Female victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">100.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Oceania</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Polynesia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Tonga</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">National police</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="26">
+				<Data ss:Type="String">Male victims of IPFM homicide</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">20.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="27">
+				<Data ss:Type="String">0%</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28"/>
+			<Cell ss:Index="2" ss:StyleID="28"/>
+			<Cell ss:Index="3" ss:StyleID="28"/>
+			<Cell ss:Index="4" ss:StyleID="28"/>
+			<Cell ss:Index="5" ss:StyleID="28"/>
+			<Cell ss:Index="6" ss:StyleID="28"/>
+			<Cell ss:Index="7" ss:StyleID="28"/>
+			<Cell ss:Index="8" ss:StyleID="28"/>
+			<Cell ss:Index="9" ss:StyleID="28"/>
+			<Cell ss:Index="10" ss:StyleID="28"/>
+			<Cell ss:Index="11" ss:StyleID="28"/>
+			<Cell ss:Index="12" ss:StyleID="28"/>
+			<Cell ss:Index="13" ss:StyleID="28"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="2">
+				<Data ss:Type="String">  </Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="28" ss:MergeDown="2"/>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeDown="2"/>
+			<Cell ss:Index="6" ss:StyleID="28" ss:MergeDown="2"/>
+			<Cell ss:Index="7" ss:StyleID="28" ss:MergeDown="2"/>
+			<Cell ss:Index="8" ss:StyleID="28" ss:MergeDown="2"/>
+			<Cell ss:Index="9" ss:StyleID="28" ss:MergeDown="2"/>
+			<Cell ss:Index="10" ss:StyleID="28" ss:MergeDown="2"/>
+			<Cell ss:Index="11" ss:StyleID="28" ss:MergeDown="2"/>
+			<Cell ss:Index="12" ss:StyleID="28" ss:MergeDown="2"/>
+			<Cell ss:Index="13" ss:StyleID="28" ss:MergeDown="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="2">
+				<Data ss:Type="String">* no homicide was recorded in the respective year </Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="2">
+				<Data ss:Type="String">  </Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="13">
+				<Data ss:Type="String">Sep 3, 2018, 5:02 AM</Data>
+			</Cell>
+		</Row>
+	</ss:Table>
+	<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+		<PageSetup>
+			<PageMargins x:Bottom="0.25" x:Left="0.25" x:Right="0.25" x:Top="0.25"/>
+		</PageSetup>
+		<Print>
+			<PaperSizeIndex>9</PaperSizeIndex>
+		</Print>
+	</WorksheetOptions>
+</Worksheet>
+</Workbook>

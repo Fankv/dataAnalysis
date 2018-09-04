@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+		<Author/>
+		<Title>Intentional homicide victims killed during commission of a robbery as percentage of total homicide victims, by country/territory (2005-2012)</Title>
+		<Description>Copyright (c) 2012 UNODC</Description>
+		<Subject/>
+	</DocumentProperties>
+	<Styles>
+		<Style ss:ID="HyperlinkId" ss:Name="Hyperlink">
+			<Font ss:Color="#0000ff"/>
+		</Style>
+		<Style ss:ID="22">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="20">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="17.28" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="1">
+			<NumberFormat ss:Format="yyyy-M-d HH:mm:ss AM/PM"/>
+		</Style>
+		<Style ss:ID="28">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="25">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#b2daff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="29">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="24">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#b2daff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="23" ss:Parent="HyperlinkId">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Bold="1" ss:Italic="1" ss:Underline="Single" ss:Color="#0000ff"/>
+		</Style>
+		<Style ss:ID="27">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Calibri" ss:Size="9.75" ss:Color="#000000"/>
+			<Interior ss:Color="#e8e8e8" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="26">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Calibri" ss:Size="9.75" ss:Color="#000000"/>
+			<Interior ss:Color="#e8e8e8" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="21">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Italic="1" ss:Color="#000000"/>
+		</Style>
+	</Styles>
+	<Names>
+		<NamedRange ss:Name="__bookmark_1" ss:RefersTo="Intentional homicide victims ki!R1C1:R42C12"/>
+	</Names>
+
+<Worksheet ss:Name="Intentional homicide victims ki">
+	<ss:Table>
+		<ss:Column ss:Width="101.504" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="132.992" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="174.464" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="66.944" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="48.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="48.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="48.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="48.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="48.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="48.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="48.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="48.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="39.04" ss:AutoFitWidth="0"/>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="20" ss:MergeAcross="11">
+				<Data ss:Type="String">Intentional homicide victims killed during commission of a robbery as percentage of total homicide victims, by country/territory (2005-2012)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="5">
+				<Data ss:Type="String">Intentional homicide is defined as unlawful death inflicted upon a person with the intent to cause death or serious injury.</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="22"/>
+			<Cell ss:Index="8" ss:StyleID="22"/>
+			<Cell ss:Index="9" ss:StyleID="22"/>
+			<Cell ss:Index="10" ss:StyleID="22"/>
+			<Cell ss:Index="11" ss:StyleID="22"/>
+			<Cell ss:Index="12" ss:StyleID="22"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="22"/>
+			<Cell ss:Index="2" ss:StyleID="22"/>
+			<Cell ss:Index="3" ss:StyleID="23" ss:HRef="http://www.unodc.org/documents/data-and-analysis/dataportal/GSH2013_robbery.xlsx" ss:MergeAcross="1">
+				<Data ss:Type="String">Download Full Dataset</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="24" ss:MergeAcross="7">
+				<Data ss:Type="String">Year</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25">
+				<Data ss:Type="String">Region</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="25">
+				<Data ss:Type="String">Sub Region</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="24">
+				<Data ss:Type="String">Country/ territory</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="24">
+				<Data ss:Type="String">Source</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="24">
+				<Data ss:Type="String">2005</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="24">
+				<Data ss:Type="String">2006</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="24">
+				<Data ss:Type="String">2007</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="24">
+				<Data ss:Type="String">2008</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="24">
+				<Data ss:Type="String">2009</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="24">
+				<Data ss:Type="String">2010</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="24">
+				<Data ss:Type="String">2011</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="24">
+				<Data ss:Type="String">2012</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Bahamas</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">9.6 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">9.8 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">16.7 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">23.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">12.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">21.3 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">11.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Dominican Republic</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">17.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">15.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">27.6 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Grenada</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">6.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">7.1 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Jamaica</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS/SES</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">44.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">38.2 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">41.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">36.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Trinidad and Tobago</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">10.8 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">12.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">10.1 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">16.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">18.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">14.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Costa Rica</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">19.4 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">21.1 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">22.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">25.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">21.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">20.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">16.2 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">El Salvador</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0.2 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">4.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">2.3 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0.9 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Panama</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">15.9 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">10.5 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">9.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">14.5 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">12.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">8.4 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">12.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">8.9 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Canada</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">7.2 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">6.3 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">5.9 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">3.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">8.7 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">5.7 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">7.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">United States of America</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">6.1 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">5.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">5.6 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">5.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">5.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">5.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Colombia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">3.3 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">3.8 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">4.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">4.4 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">4.2 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">4.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">3.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Guyana</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">16.9 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Uruguay</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">15.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Japan</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">6.7 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">5.2 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">5.2 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">4.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">7.1 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">7.7 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">8.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Mongolia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Republic of Korea</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">8.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South-Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Singapore</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">11.8 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">5.6 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">14.8 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">5.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">15.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">6.3 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Armenia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">5.2 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">6.3 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">5.2 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">12.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">12.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">4.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">4.6 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">5.6 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Azerbaijan</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">2.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Cyprus</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">22.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Georgia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">0.5 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Bulgaria</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">0.5 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">1.1 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">1.7 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">2.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">2.7 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">5.5 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">5.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Czech Republic</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">8.7 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">12.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">13.8 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">12.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">4.7 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Finland</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">6.0 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">3.4 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">1.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0.8 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">3.3 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">2.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">1.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Iceland</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Albania</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">2.6 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">3.8 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">3.2 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">3.5 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">3.1 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">2.1 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Bosnia and Herzegovina</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">3.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Croatia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">1.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">4.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Italy</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">4.6 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">5.4 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">5.5 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">5.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">3.7 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">6.6 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">5.1 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Montenegro</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">4.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Spain</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">2.8 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String">3.0 %</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">The former Yugoslav Republic of Macedonia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">4.3 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">2.9 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">8.6 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">7.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">3.3 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Austria</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">11.1 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">16.4 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">26.7 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">11.1 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">14.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">5.7 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">4.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Germany</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">6.2 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">7.8 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">9.4 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">10.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">7.8 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">8.8 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">9.4 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Luxembourg</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">0.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">10.0 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">25.0 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Switzerland</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">2.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String">1.9 %</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String">2.2 %</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Oceania</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Australia and New Zealand</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Australia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="26">
+				<Data ss:Type="String">CTS</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="27">
+				<Data ss:Type="String">7.3 %</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="27">
+				<Data ss:Type="String">6.0 %</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="27">
+				<Data ss:Type="String">6.3 %</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="27">
+				<Data ss:Type="String">2.3 %</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="27">
+				<Data ss:Type="String">3.0 %</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="28"/>
+			<Cell ss:Index="2" ss:StyleID="28"/>
+			<Cell ss:Index="3" ss:StyleID="28"/>
+			<Cell ss:Index="4" ss:StyleID="28"/>
+			<Cell ss:Index="5" ss:StyleID="28"/>
+			<Cell ss:Index="6" ss:StyleID="28"/>
+			<Cell ss:Index="7" ss:StyleID="28"/>
+			<Cell ss:Index="8" ss:StyleID="28"/>
+			<Cell ss:Index="9" ss:StyleID="28"/>
+			<Cell ss:Index="10" ss:StyleID="28"/>
+			<Cell ss:Index="11" ss:StyleID="28"/>
+			<Cell ss:Index="12" ss:StyleID="28"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="12">
+				<Data ss:Type="String">Sep 3, 2018, 5:03 AM</Data>
+			</Cell>
+		</Row>
+	</ss:Table>
+	<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+		<PageSetup>
+			<PageMargins x:Bottom="0.25" x:Left="0.25" x:Right="0.25" x:Top="0.25"/>
+		</PageSetup>
+		<Print>
+			<PaperSizeIndex>9</PaperSizeIndex>
+		</Print>
+	</WorksheetOptions>
+</Worksheet>
+</Workbook>

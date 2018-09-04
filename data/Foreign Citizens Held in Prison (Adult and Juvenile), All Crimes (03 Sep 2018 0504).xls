@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+		<Author/>
+		<Title>Foreign Citizens Held in Prison (Adult and Juvenile), All Crimes</Title>
+		<Description>Copyright (c) 2012 UNODC</Description>
+		<Subject/>
+	</DocumentProperties>
+	<Styles>
+		<Style ss:ID="HyperlinkId" ss:Name="Hyperlink">
+			<Font ss:Color="#0000ff"/>
+		</Style>
+		<Style ss:ID="20">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="20.736" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="34">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="30">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="33">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+			<Interior ss:Color="#c0c0c0" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="22">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Bold="1" ss:Italic="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="21">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="28">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Calibri" ss:Size="9.75" ss:Color="#000000"/>
+			<Interior ss:Color="#e8e8e8" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="25">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#b2daff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="1">
+			<NumberFormat ss:Format="yyyy-M-d HH:mm:ss AM/PM"/>
+		</Style>
+		<Style ss:ID="23">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Italic="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="26">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Calibri" ss:Size="9.75" ss:Color="#000000"/>
+			<Interior ss:Color="#e8e8e8" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="35">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="32">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+			<Interior ss:Color="#c0c0c0" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="24" ss:Parent="HyperlinkId">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Italic="1" ss:Underline="Single" ss:Color="#0000ff"/>
+		</Style>
+		<Style ss:ID="31">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="36">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="sans-serif" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="27">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Calibri" ss:Size="9.75" ss:Color="#000000"/>
+			<Interior ss:Color="#e8e8e8" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="29">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Calibri" ss:Size="9.75" ss:Color="#000000"/>
+			<Interior ss:Color="#e8e8e8" ss:Pattern="Solid"/>
+		</Style>
+	</Styles>
+	<Names>
+		<NamedRange ss:Name="__bookmark_1" ss:RefersTo="Foreign Citizens Held in Prison!R1C1:R62C19"/>
+	</Names>
+
+<Worksheet ss:Name="Foreign Citizens Held in Prison">
+	<ss:Table>
+		<ss:Column ss:Width="99.712" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="134.912" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="192.768" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="85.504" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="4.48" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="25.6" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="29.184" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="51.072" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="50.944" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="51.072" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="54.656" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="51.072" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="50.944" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="51.072" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="50.944" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="50.944" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="51.072" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="50.944" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="51.072" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="71.936" ss:AutoFitWidth="0"/>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="20" ss:MergeAcross="16">
+				<Data ss:Type="String">Annual Prevalence Rate of Bribery</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="21"/>
+			<Cell ss:Index="19" ss:StyleID="21"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="16"/>
+			<Cell ss:Index="18" ss:StyleID="21"/>
+			<Cell ss:Index="19" ss:StyleID="21"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="22" ss:MergeAcross="17">
+				<Data ss:Type="String">Definitions:</Data>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="21" ss:MergeDown="5"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="17">
+				<Data ss:Type="String"> “Annual Prevalence Rate of Bribery means the percentage of individuals who were asked or expected by any public official to pay a bribe for his or her services in the last calendar year or the last 12 months.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="23" ss:MergeAcross="17">
+				<Data ss:Type="String">    </Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="22" ss:MergeAcross="17">
+				<Data ss:Type="String">Note: </Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="22" ss:MergeAcross="17">
+				<Data ss:Type="String">Data that refer to the above specification of the indicator are not yet available. However, relevant data for the indicator have been produced by countries and were collected by UNODC in the annual United Nations Crime Trends Survey (UN-CTS) and ad-hoc corruption surveys in cooperation with UNODC. See sources and definitions used further below.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="22" ss:MergeAcross="17">
+				<Data ss:Type="String">    </Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:HRef="&#13;&#10;http://www.unodc.org/documents/data-and-analysis/dataportal/Data_and_metadata_from_Crime_Victimization_surveys_2004_2015.xlsx" ss:MergeAcross="7">
+				<Data ss:Type="String">Dowload full Dataset</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="21"/>
+			<Cell ss:Index="10" ss:StyleID="21" ss:MergeAcross="5"/>
+			<Cell ss:Index="16" ss:StyleID="21"/>
+			<Cell ss:Index="17" ss:StyleID="21"/>
+			<Cell ss:Index="18" ss:StyleID="21"/>
+			<Cell ss:Index="19" ss:StyleID="21"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21"/>
+			<Cell ss:Index="2" ss:StyleID="21"/>
+			<Cell ss:Index="3" ss:StyleID="21"/>
+			<Cell ss:Index="4" ss:StyleID="21" ss:MergeAcross="15"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="25">
+				<Data ss:Type="String">Region</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="25">
+				<Data ss:Type="String">Sub Region</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="25">
+				<Data ss:Type="String">Country</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="25">
+				<Data ss:Type="String">Source number</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="25" ss:MergeAcross="2">
+				<Data ss:Type="String">Footnote</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="25">
+				<Data ss:Type="String">2004</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="25">
+				<Data ss:Type="String">2005</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="25">
+				<Data ss:Type="String">2006</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="25">
+				<Data ss:Type="String">2007</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="25">
+				<Data ss:Type="String">2008</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="25">
+				<Data ss:Type="String">2009</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="25">
+				<Data ss:Type="String">2010</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="25">
+				<Data ss:Type="String">2011</Data>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="25">
+				<Data ss:Type="String">2012</Data>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="25">
+				<Data ss:Type="String">2013</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="25">
+				<Data ss:Type="String">2014</Data>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="25">
+				<Data ss:Type="String">2015</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Mauritius</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">10</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String">a2</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String">13</Data>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">United Republic of Tanzania</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">14</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String">19</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Africa</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Africa</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">South Africa</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String">a5</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">5.9</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Jamaica</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String">4.3</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Caribbean</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Trinidad and Tobago</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String">1.3</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Central America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Mexico</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String">12.1</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String">12.6</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Chile</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String">a1</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String">0.5</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String">0.4</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String">0.7</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String">0.4</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">0.4</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String">0.4</Data>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String">0.3</Data>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String">0.1</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String">0.1</Data>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Paraguay</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String">5.7</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">7</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Americas</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South America</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Venezuela (Bolivarian Republic of)</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">13</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String">a7</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String">11.2</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Republic of Korea</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String">-</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String">-</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">-</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String">-</Data>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String">-</Data>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String">-</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String">0</Data>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South-Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Philippines</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String">a3</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">10.3</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South-Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Philippines</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">11</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String">4.3</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">South-Eastern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Timor-Leste</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">12</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String">a6</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Afghanistan</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">1</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String">58.6</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String">50.1</Data>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Asia</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Asia</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Iraq</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">5</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String">11.6</Data>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Eastern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Poland</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String">a4</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">6.8</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Northern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Estonia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String">3.3</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String">0.5</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Albania</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">2</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">19.3</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Bosnia and Herzegovina</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">3</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">20.7</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Croatia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String">2</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">11.2</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Kosovo under UNSCR 1244</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">6</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">11.1</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Montenegro</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">7</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">9.7</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Serbia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">8</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">9.3</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Southern Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">The former Yugoslav Republic of Macedonia</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">9</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String">6.2</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26">
+				<Data ss:Type="String">Europe</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="26">
+				<Data ss:Type="String">Western Europe</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26">
+				<Data ss:Type="String">Luxembourg</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="27">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="28" ss:MergeAcross="2">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="16" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="27">
+				<Data ss:Type="String">0.6</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="29">
+				<Data ss:Type="String"/>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="30"/>
+			<Cell ss:Index="2" ss:StyleID="30"/>
+			<Cell ss:Index="3" ss:StyleID="30"/>
+			<Cell ss:Index="4" ss:StyleID="30"/>
+			<Cell ss:Index="5" ss:StyleID="30" ss:MergeAcross="2"/>
+			<Cell ss:Index="8" ss:StyleID="30"/>
+			<Cell ss:Index="9" ss:StyleID="30"/>
+			<Cell ss:Index="10" ss:StyleID="30"/>
+			<Cell ss:Index="11" ss:StyleID="30"/>
+			<Cell ss:Index="12" ss:StyleID="30"/>
+			<Cell ss:Index="13" ss:StyleID="30"/>
+			<Cell ss:Index="14" ss:StyleID="30"/>
+			<Cell ss:Index="15" ss:StyleID="30"/>
+			<Cell ss:Index="16" ss:StyleID="30"/>
+			<Cell ss:Index="17" ss:StyleID="30"/>
+			<Cell ss:Index="18" ss:StyleID="30"/>
+			<Cell ss:Index="19" ss:StyleID="30"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="31" ss:MergeAcross="16">
+				<Data ss:Type="String">Please note that when using the figures, any cross-national comparisons should be conducted with caution because of the differences that exist between the legal definitions of offences in countries, or the different methods of offence counting and recording.</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="30"/>
+			<Cell ss:Index="19" ss:StyleID="30"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="33" ss:MergeAcross="4">
+				<Data ss:Type="String">Source numbers</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="33" ss:MergeAcross="10">
+				<Data ss:Type="String">Source</Data>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="30" ss:MergeDown="14"/>
+			<Cell ss:Index="18" ss:StyleID="30" ss:MergeDown="14"/>
+			<Cell ss:Index="19" ss:StyleID="30" ss:MergeDown="14"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">1</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">UNODC and Islamic Republic of Afghanistan High Office of Oversight and Anti-Corruption (2013) Corruption in Afghanistan: Recent patterns and trends</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">2</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">UNODC and INSTAT (2011) Corruption in Albania: Bribery as experienced by the population</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">3</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">UNODC and Prism Research (2011) Corruption in Bosnia and Herzegovina: Bribery as experienced by the population</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">4</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">UN-CTS</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">5</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">UNODC and Central Statistical Office, Kurdistan Region Statistical Office and Commission of Integrity (2012) Corruption and integrity challenges in the public sector of Iraq</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">6</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">UNODC and Prism Research (2011) Corruption in Kosovo: Bribery as experienced by the population</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">7</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">UNODC and Prism Research (2011) Corruption in Montenegro: Bribery as experienced by the population</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">8</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">UNODC and Statistical Office of Republic of Serbia (2011) Corruption in Serbia: Bribery as experienced by the population</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">9</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">UNODC and State Statistical Office (2011) Corruption in the former Yugoslav Republic of Macedonia: Bribery as experienced by the population</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">10</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">Independent Commission Against Corruption of Mauritius. 2014 National Survey on Corruption</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">11</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">Philippine Office of the Ombudsman. 2013 National Household Survey on Experience with Corruption in the Philippines</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">12</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">Anti-Corruption Commission of Timor-Leste. 2011 Corruption Perception Survey</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">13</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">National Commission for Police Reform. 2007 Study on Victimization from Crime and Perception of the Police.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="4">
+				<Data ss:Type="String">14</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">The Prevention and Combating of Corruption Bureau of Tanzania. 2009 National Governance and Corruption Survey</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="33" ss:MergeAcross="5">
+				<Data ss:Type="String">Footnote</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="33" ss:MergeAcross="10">
+				<Data ss:Type="String">Notes</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="30" ss:MergeDown="8"/>
+			<Cell ss:Index="19" ss:StyleID="30" ss:MergeDown="8"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="36" ss:MergeAcross="5"/>
+			<Cell ss:Index="7" ss:StyleID="36" ss:MergeAcross="10"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="5">
+				<Data ss:Type="String">a1</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">Percentage of households who have been victim of bribery from a public functionary or state enterprise. Attempts are not included.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="5">
+				<Data ss:Type="String">a2</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">The 2014 National Survey on Corruption did not state a reference period in the prevalence questions, thus the rate refers to the percentage of individuals who have ever given a bribe to a public official.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="5">
+				<Data ss:Type="String">a3</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">Source (4): The information is obtained from a separate survey (Annual Poverty Indicator Survey), however, the data available is in terms of percentage of families not individuals. Source (11): Percentage of families that gave money, gift or anything of value to a government official to avoid any problem in an official transaction or to facilitate an official transaction in the last year.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="5">
+				<Data ss:Type="String">a4</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">Reference period is 5 years</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="5">
+				<Data ss:Type="String">a5</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">This category is measured as corruption</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="5">
+				<Data ss:Type="String">a6</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">Percentage of individuals who had contact with public institutions and were asked to pay a bribe in the last 12 months.</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="35" ss:MergeAcross="5">
+				<Data ss:Type="String">a7</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="10">
+				<Data ss:Type="String">Reference is made to corruption in general, no further definition provided</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="31" ss:MergeAcross="19">
+				<Data ss:Type="String">Sep 3, 2018, 5:04 AM</Data>
+			</Cell>
+		</Row>
+	</ss:Table>
+	<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+		<PageSetup>
+			<PageMargins x:Bottom="0.25" x:Left="0.25" x:Right="0.25" x:Top="0.25"/>
+		</PageSetup>
+		<Print>
+			<PaperSizeIndex>9</PaperSizeIndex>
+		</Print>
+	</WorksheetOptions>
+</Worksheet>
+</Workbook>
