@@ -1,11 +1,11 @@
 
-//显示子菜单里的内容
-function displaySubMenu(li) {
-    var subMenu = li.getElementsByTagName("ul")[0];
-    subMenu.style.display = "block";
-}
-//隐藏子菜单里的内容
-function hideSubMenu(li) {
-    var subMenu = li.getElementsByTagName("ul")[0];
-    subMenu.style.display = "none";
-}
+$(function(){
+$(".navmenu").mouseover(function(){
+$(this).children("ul").show();
+})
+})
+$(function(){
+$(".navmenu").mouseout(function(){
+$(this).children("ul").hide();
+})
+})

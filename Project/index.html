@@ -1,39 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>KNOW MORE ABOUT CRIMES</title>
+	<title>The Analysis of Global Crimes</title>
   <script src="echarts.js"></script>
-  <script src="world.json"></script>
+  <script src="jquery-3.3.1.js"></script>
   <script src="world.js"></script>
-  <script type="text/javascript" src="script.js"></script>
+  <script src="script.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/style.css"/>
 </head>
 <body>
-<header id="header">
-    <div class="container" style="width: 100%;height:50px;background-color: black;">
-      <div id="logo" style="float: left;color: white;">
-        <a href="index.html"><img src="img/logo.png"/></a>
-        The Analysis of Global Crimes
-      </div>
-      <div class="nav-menu-container" style="float: right;">
-        <ul class="nav-menu">
-          <li><a href="index.html">Overview</a></li>
-          <li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"><a href="details.html">Details▼</a>
-          	<ul class="nav-submenu">
-          		<li><a href=#>Africa</a></li>
-	          	<li><a href=#>Asia</a></li>
-	          	<li><a href=#>Australia</a></li>
-	          	<li><a href=#>Europe</a></li>
-	          	<li><a href=#>North America</a></li>
-	          	<li><a href=#>South America</a></li>
-	        </ul>
-      	  </li>
-          <li><a href="analysis.html">Analysis</a></li>
-        </ul>
-      </div><!-- #nav-menu-container -->		    		
-    </div>
-</header><!-- #header -->
 
+<div class="container" style="width: 100%;height:50px;background-color: black;z-index: 10;">
+  <div id="logo" style="float: left;color: white;">
+    <a href="index.html"><img src="img/logo.png"/></a>
+    The Analysis of Global Crimes
+  </div>
+  <div class="nav-menu-container" style="float: right;">
+    <ul class="nav-menu">
+      <li><a href="index.html">Overview</a></li>
+      <li class="navmenu"><a href="details.html">Details▼</a>
+      	<ul class="nav-submenu">
+      		<li><a href=#>Africa</a></li>
+          	<li><a href=#>Asia</a></li>
+          	<li><a href=#>Australia</a></li>
+          	<li><a href=#>Europe</a></li>
+          	<li><a href=#>North America</a></li>
+          	<li><a href=#>South America</a></li>
+        </ul>
+  	  </li>
+      <li><a href="analysis.html">Analysis</a></li>
+    </ul>
+  </div><!-- #nav-menu-container -->		    		
+</div>
 <div  id="main" style="height:550px;width:100%;"></div>
 
 <script>
@@ -256,10 +254,7 @@
     ]
 };
  myChart.setOption(option);
- 
 	</script>
-
-
 
 </body>
 </html>>
