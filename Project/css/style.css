@@ -3,59 +3,63 @@
 
 body
 {
-	margin: 0 auto;
-	font-family: 微软雅黑，sans-serif；
+    margin: 0 auto;
+    font-family: 微软雅黑，sans-serif；
 }
 
 #logo
 {
-	margin: 10px 50px;
+    margin: 10px 50px;
 }
 
 .nav-menu-container a,a:hover,a:visited
 {
-	text-decoration: none;
-	color: yellow;
-	text-align: center;
-	display: block;
+    text-decoration: none;
+    color: yellow;
+    text-align: center;
 }
 
-.nav-menu
-{
-	list-style-type: none;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
 }
-
-.nav-menu li
-{
-	float: left;
-	margin: 0 50px;
-	height: 30px;
-	padding: 5px 5px;
+li {
+    float: left;
 }
-
-.nav-menu li a:hover
-{
-	background-color: rgba(191,191,191,70%);
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
 }
-
-.nav-submenu
-{
-	display: none;
-	list-style-type: none;
-	padding: 0px;
+li a:hover, .navmenu:hover .dropbtn {
+    background-color: black;
 }
-
-.nav-submenu li
-{
-	float: none;
-	height: 30px;
-	margin: 0 -30px;
-	list-style-type: none;
-	background-color: black;
+li.navmenu {
+    display: inline-block;
 }
-
-
-.nav-submenu li a:hover
-{
-	background-color: rgba(191,191,191,70%);
+.nav-submenu {
+    display: none;
+    position: absolute;
+    margin: 0 180px;
+    background-color: #fafafa;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+.nav-submenu a {
+    color: yellow;
+    margin: 0 -120px;
+    width: 80px;
+    padding: 5px 5px;
+    display: inline-block;
+    text-align: middle;
+}
+.nav-submenu a:hover {
+    color: white;
+    background-color: #1f75cf;
+}
+.show {
+    display: block;
 }
