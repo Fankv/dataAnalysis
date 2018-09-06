@@ -1,6 +1,8 @@
 function showList(o) {
     hideList("nav-submenu" + o.id);
     document.getElementById("nav-submenu-" + o.id).classList.toggle("show");
+    var tab = document.getElementById("tab-nav-list");
+    tab.style.visibility="hidden";
 }
  
  
@@ -15,6 +17,8 @@ function hideList(option) {
             }
         }
     }
+    var tab = document.getElementById("tab-nav-list");
+    tab.style.visibility="visible";
 }
  
  
