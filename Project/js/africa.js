@@ -27,10 +27,13 @@ option = {
     },
     legend: {
         data: ['Assault', 'Burglary', 'International Homicide', 'Kidnapping', 'Motor Vehicle Theft','Rape','Robbery','Sexual Offence agianst Children','Theft'],
-        align: 'left'
+        align: 'left',
+        x:'left',
+        y:'20px',
     },
     toolbox: {
         // y: 'bottom',
+        show:false,
         feature: {
             magicType: {
                 type: ['stack', 'tiled']

@@ -22,14 +22,19 @@ var xAxisData = ['2003','2004','2005','2006','2007','2008','2009','2010','2011',
 
 option = {
     title: {
-        text: '各类犯罪情况年变化趋势'
+        text: '各类犯罪情况年变化趋势',
+        x:'left',
+        y:'top',
     },
     legend: {
         data: ['Assault', 'Burglary', 'International Homicide', 'Kidnapping', 'Motor Vehicle Theft','Rape','Robbery','Sexual Offence agianst Children','Theft'],
-        align: 'left'
+        align: 'left',
+        x:'left',
+        y:'20px',
     },
     toolbox: {
         // y: 'bottom',
+        show:false,
         feature: {
             magicType: {
                 type: ['stack', 'tiled']

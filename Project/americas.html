@@ -34,13 +34,68 @@
   </div><!-- #nav-menu-container -->                    
 </div>
 <div class="blank" style="background-color: black;width: 100%;height: 50px;"></div>
-
-<div  id="main" align="center" style="height:550px;width:100%;"></div>
-
-<script src="js/america.js">
+<div  id="main" style="height:550px;width:60%;float:left;"></div>
+<div id ="echartsPie" style="height:550px;width: 50%;float:left;top:-550px;"></div> 
+<script src="json/asia.geo.json">
 </script>
-
-
-
-</body>
-</html>
+<script src="js/asia.js"></script>
+<script type="text/javascript">
+  var echarts;
+  var json=[
+    {"name":"BurglaryBreakingAndEntering","value":7357.732308},
+    {"name":"IntentionalHomicide","value": 749.2007692},
+    {"name":"kidnapping","value": 39.67090909},
+    {"name":"MotorVehicleTheft","value": 2974.520769},
+    {"name":"rape","value": 413.433},
+    {"name":"robbery","value": 5395.540769},
+    {"name":"SexualOffencesagainstChildren","value": 1434.445445},
+    {"name":"theft","value": 16123.27385},
+];
+var option2 ={
+  title:{
+    text:'Crimes in Americas',
+    x:'center',
+    y:'top'
+  },
+  tooltip:{
+    trigger:'item',
+    x:'left',
+    data:['BurglaryBreakingAndEntering','IntentionalHomicide','kidnapping','MotorVehicleTheft','rape','robbery','SexualOffencesagainstChildren','theft']
+  },
+          toolbox: {
+            show : false,
+            feature : {
+                mark : {show: true},
+                dataView : {show: true, readOnly: false},
+                magicType : {
+                    show: false, 
+                    type: ['pie', 'funnel'],
+                    option: {
+                        funnel: {
+                            x: '25%',
+                            width: '50%',
+                            funnelAlign: 'left',
+                            max: 1548
+                        }
+                    }
+                },
+                restore : {show: true},
+                saveAsImage : {show: true}
+            }
+        },
+        calculable : true,
+        series:[
+        {
+          name :'data',
+          type:'pie',
+          radius:'55%',
+          center:['50%','60%'],
+          data :json
+        }
+        ]
+};
+echartsPie=echarts.init(document.getElementById('echartsPie'));
+$(function(){
+  echartsPie.setOption(option2);
+})
+</script>
