@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<title>The Analysis of Global Crimes</title>
+    <script src="js/echarts.js"></script>
+    <script src="js/jquery-3.3.1.js"></script>
+    <script src="js/world.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+
+<div class="container" style="width: 100%;height:50px;background-color: black;z-index: 10;">
+  <div id="logo" style="float: left;color: white;">
+    <a href="frontpage.html"><img src="img/logo.png"/></a>
+    The Analysis of Global Crimes
+  </div>
+  <script src="js/script_index.js"></script>
+  <div class="nav-menu-container" style="float: right;">
+    <ul class="nav-menu">
+      <li><a href="index.html">Overview</a></li>
+
+      <li class="navmenu"><a id="a" href="javascript:void(0)" class="dropbtn" onclick="showList(this)">Details▼</a>
+        <div class="nav-submenu" id="nav-submenu-a">
+            <a href="Africa.html">Africa</a>
+            <a href="Asia.html">Asia</a>
+            <a href="Oceania.html">Oceania</a>
+            <a href="Europe.html">Europe</a>
+            <a href="America.html">Americas</a>
+        </div>
+      </li>
+      <li><a href="analysis.html">Analysis</a></li>
+    </ul>
+  </div><!-- #nav-menu-container -->		    		
+</div>
+<div class="blank" style="background-color: black;width: 100%;height: 50px;color: rgb(217,217,217);">
+  <ul id="tab-nav-list" class="tab-nav-list" style="width:100%;">
+    <li class="active">
+    </li>
+  </ul>
+</div>
+<div  id="main" style="height:500px;width:100%;"></div><br>
+CountryName:<input type="text" name="countryname" value="America" id="countryname">
+<input type="submit" name="namesubmit" value="Submit" onclick="on_click()">
+<script >
+  function on_click(){
+    var a=document.getElementById("countryname").value;
+    if(a=="America")
+    {
+      var gdpdata=[
+      [2003,34620.9289],
+      [2004,36449.85512],
+      [2005,37273.6181],
+      [2006,38166.03784],
+      [2007,39677.19835],
+      [2008,41921.80976],
+      [2009,44307.92058],
+      [2010,46437.06712],
+      [2011,48061.53766],
+      [2012,48401.42734],
+      [2013,47001.55535],
+      [2014,48375.40695],
+      [2015,49793.71352]
+      ];
+      var edudata=[
+      [2003,92.60085297],
+      [2004,91.33039093],
+      [2005,91.78575134],
+      [2006,93.09568024],
+      [2007,94.49015808],
+      [2008,95.11688995],
+      [2009,93.85852814],
+      [2010,92.71695709],
+      [2011,91.9122467],
+      [2012,92.05748749],
+      [2013,91.74311829],
+      [2014,92.19660187],
+      [2015,92.94197845]
+      ];
+      var crimedata=[
+      [2003,267.4707349],
+[2004,250.5644827],
+[2005,246.2485694],
+[2006,243.9228317],
+[2007,238.1472534],
+[2008,226.8911826],
+[2009,211.8323923],
+[2010,199.6615266],
+[2011,191.2386727],
+[2012,190.1958115],
+[2013,195.1916646],
+[2014,190.5856874],
+[2015,186.654041]
+      ];
+
+      var jobdata=[
+[2003,5.989999771],
+[2004,5.53000021],
+[2005,5.079999924],
+[2006,4.619999886],
+[2007,4.619999886],
+[2008,5.78000021],
+[2009,9.25],
+[2010,9.630000114],
+[2011,8.949999809],
+[2012,8.069999695],
+[2013,7.380000114],
+[2014,6.170000076],
+[2015,5.28000021]
+];
+      var schema=[
+      {name:'year',index:0,text:'年'},
+      {name:'crime',index:1,text:'犯罪率'},
+      {name:'edu',index:2,text:'小学入学率'},
+      {name:'gdp',index:3,text:'人均GDP'},
+      {name:'job',index:4,text:'失业率'}
+      ];
+
+      var itemStyle={
+        normal:{
+          opacity:0.8,
+          shadowBlur:10,
+          shadowOffsetX:0,
+          shadowOffsetY:0,
+          shadowColor:'rgba(0,0,0,0.5)'
+        }
+      };
+
+      ctyoption={
+            title: {
+        show :true,
+        left: 'center',
+        top: '50px',
+        text:'相关系数:入学率:0.13436  人均GDP:-0.99655  失业率:-0.56956',
+        textStyle:{
+          color:'#ffffff',
+          fontSize:16
+        }
+    },
+        backgroundColor:'#404a59',
+        color:[
+        '#dd444','#fec42c','#80F1BE','#C0FF3E'],
+        legend:{
+          y:'top',
+          data:['犯罪率','小学入学率','人均GDP','失业率'],
+          textStyle:{
+            color:'#fff',
+            fontSize:16
+          }
+        },
+        grid:{
+          x:'10%',
+          x2:150,
+          y:'18%',
+          y2:'10%'
+        },
+        tooltip:{
+          padding:10,
+          backgroundColor:'#222',
+          borderColor:'#777',
+          borderWidth:1,
+        formatter:function(obj){
+            var value = obj.value;
+            return '<div style="border-bottom: 1px solid rgba(255,255,255,.3); font-size: 18px;padding-bottom: 7px;margin-bottom: 7px">'
+                + obj.seriesName + ' ' + value[0] + '年'
+                + '</div>'
+                + schema[1].text + '：' + value[1] + '<br>'
+                + schema[2].text + '：' + value[2] + '<br>'
+                + schema[3].text + '：' + value[3] + '<br>'
+                + schema[4].text + '：' + value[4] + '<br>'
+          }
+        },
+       xAxis:{
+          type:'value',
+          name:'年份',
+          nameGap: 16,
+          nameTextStyle:{
+            color:'#fff',
+            fontSize: 14
+          },
+          max: 2015,
+          min: 2003,
+          splitLine:{
+            show:false
+          },
+          axisLine:{
+            lineStyle:{
+              color:'#eee'
+            }
+          }
+        },
+        yAxis:{
+          type:'value',
+          name:'犯罪率（10万人)',
+          nameLocation:'end',
+          nameGap:20,
+          nameTextStyle:{
+            color:'#fff',
+            fontSize:16
+          },
+          splitLine:{
+            show:false
+          }
+        },
+        visualMap:[
+     /*   {
+          left: 'right',
+            top: '10%',
+            dimension: 20,
+            min: 150,
+            max: 400,
+            itemWidth: 30,
+            itemHeight: 120,
+            calculable: true,
+            precision: 1,
+            text: ['圆形大小：犯罪率'],
+            textGap: 30,
+            textStyle: {
+                color: '#fff'
+        },
+       inRange: {
+                symbolSize: [10, 70]
+            },
+            outOfRange: {
+                symbolSize: [10, 70],
+                color: ['rgba(255,255,255,.2)']
+            },
+         controller: {
+                inRange: {
+                    color: ['#c23531']
+                },
+                outOfRange: {
+                    color: ['#444']
+                }
+            }
+        },*/
+        ],
+        series:[
+        {
+          name:'人均GDP',
+          type:'scatter',
+          itemStyle:itemStyle,
+          data:gdpdata
+        },
+        {
+          name:'小学入学率',
+          type:'scatter',
+          itemStyle:itemStyle,
+          data:edudata
+        },
+        {
+          name:'失业率',
+          type:'scatter',
+          itemStyle:itemStyle,
+          data:jobdata
+        }
+        ]
+      };
+      var myChart = echarts.init(document.getElementById('main'));
+      myChart.setOption(ctyoption);
+    }
+    else{
+      alert('暂无数据');
+    }
+  };
+
+</script>
+</body>
+</html>
