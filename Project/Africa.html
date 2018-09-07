@@ -19,7 +19,7 @@
   <div class="nav-menu-container" style="float: right;">
     <ul class="nav-menu">
       <li><a href="index.html">Overview</a></li>
-      <li class="navmenu"><a id="a" href="javascript:void(0)" class="dropbtn" onclick="showList(this)">Details▼</a>
+      <li class="navmenu"><a id="a" href="javascript:void(0)" class="dropbtn" onclick="showList(this)">Details</a>
         <div class="nav-submenu" id="nav-submenu-a">
             <a href="Africa.html">Africa</a>
             <a href="Asia.html">Asia</a>
@@ -34,12 +34,12 @@
 </div>
 <div class="blank" style="background-color: black;width: 100%;height: 50px;"></div>
 
-<div id="main"></div>
-<div id="linechart"></div>
-<div id ="echartsPie"></div>
+<!-- <div id="main"></div> -->
+<div  id="main" align="center" style="height:550px;width:100%;"></div>
+<!-- <div id ="echartsPie"></div> -->
 
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   var myChart = echarts.init(document.getElementById('main'));
   // myChart.showLoading();
 
@@ -102,10 +102,10 @@
     });
   });
  myChart.setOption(option1,true);
-</script>
-<script src="africa.js">
-</script>
-<script type="text/javascript">
+</script> -->
+<script src="js/africa.js">
+</script> 
+<!-- <script type="text/javascript">
   var echarts;
   var json=[
     {"name":"BurglaryBreakingAndEntering","value":664.1253846},
@@ -163,7 +163,7 @@ echartsPie=echarts.init(document.getElementById('echartsPie'));
 $(function(){
   echartsPie.setOption(option2);
 })
-</script>
+</script> -->
 
 
 </body>
