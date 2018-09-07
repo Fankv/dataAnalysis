@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html style="height: 100%">
+  
+  <head>
+    <meta charset="utf-8">
+  </head>
+  
+  <body style="height: 100%; margin: 0">
+    <div id="main" style="height: 100%">
+    </div>
+<script type="text/javascript" src="jquery-3.3.1.js"></script>
+<script type="text/javascript" src="echarts.js"></script>
+    <script type="text/javascript">
+      var myChart = echarts.init(document.getElementById('main'));
+      myChart.showLoading();
+
+      $.get('json/seasia-ctry.json',
+      function(geoJson) {
+
+        myChart.hideLoading();
+
+        echarts.registerMap('json/seasia-ctry', geoJson);
+
+        myChart.setOption(option = {
+          title: {
+            text: '香港18区人口密度 （2011）',
+            subtext: '人口密度数据来自Wikipedia',
+            sublink: 'http://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A1%8C%E6%94%BF%E5%8D%80%E5%8A%83#cite_note-12'
+          },
+          tooltip: {
+            trigger: 'item',
+            formatter: '{b}<br/>{c} (p / km2)'
+          },
+          toolbox: {
+            show: true,
+            orient: 'vertical',
+            left: 'right',
+            top: 'center',
+            feature: {
+              dataView: {
+                readOnly: false
+              },
+              restore: {},
+              saveAsImage: {}
+            }
+          },
+          visualMap: {
+            min: 800,
+            max: 50000,
+            text: ['High', 'Low'],
+            realtime: false,
+            calculable: true,
+            color: ['orangered', 'yellow', 'lightskyblue']
+          },
+          series: [{
+            name: '香港18区人口密度',
+            type: 'map',
+            mapType: 'json/seasia-ctry',
+            // 自定义扩展图表类型
+            itemStyle: {
+              normal: {
+                label: {
+                  show: true
+                }
+              },
+              emphasis: {
+                label: {
+                  show: true
+                }
+              }
+            },
+          }]
+        });
+      });
+      myChart.setOption(option,true); //多余的
+      
+    </script>
+  </body>
+
+</html>
