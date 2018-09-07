@@ -525,3 +525,16 @@ for (var i = 0; i < data.length; i++) {
 }
 
 myChart.setOption(option);
+
+myChart.on('click', function(param) {
+var name = param.name;
+for (var n = 0, nL = data[0].data.length; n < nL; n++) {
+if (name == data[0].data[n].name) {
+location.href = name + '.html';
+break;
+} else {
+console.log(name)
+}
+}
+});
+
