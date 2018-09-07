@@ -16,7 +16,7 @@ var sex_af=[7.6, 13, 105, 131.7, 138.9, 163.3, 253.6, 292.1, 310.2, 186.7, 172, 
 
 var the_af= [4711.3, 4856.43, 2597.78, 2821.81, 3208.5, 3216.42, 2974.95, 3537.7, 3173.84, 1338, 1424.66, 2422.18, 1032.65];
 
-var myChart = echarts.init(document.getElementById('main'));
+var myChart = echarts.init(document.getElementById('linechart'));
 
 
 var xAxisData = ['2003','2004','2005','2006','2007','2008','2009','2010','2011','2012','2013','2014','2015'];
