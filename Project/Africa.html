@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
 <head>
     <meta charset="utf-8">
@@ -11,7 +10,7 @@
 </head>
 <body>
 
-<div class="container" style="width: 100%;height:50px;background-color: black;z-index: 10;">
+<div class="container" style="width:100%;height:50px;background-color: black;z-index: 10;">
   <div id="logo" style="float: left;color: white;">
     <a href="index.html"><img src="img/logo.png"/></a>
     The Analysis of Global Crimes
@@ -35,11 +34,136 @@
 </div>
 <div class="blank" style="background-color: black;width: 100%;height: 50px;"></div>
 
-<div  id="main" align="center" style="height:550px;width:100%;"></div>
+<div id="main"></div>
+<div id="linechart"></div>
+<div id ="echartsPie"></div>
 
-<script src="js/africa.js">
+
+<script type="text/javascript">
+  var myChart = echarts.init(document.getElementById('main'));
+  // myChart.showLoading();
+
+  $.get('json/africa.geo.json',
+  function(geoJson) {
+
+    // myChart.hideLoading();
+
+    echarts.registerMap('json/africa.geo.json', geoJson);
+
+    myChart.setOption(option1 = {
+      title: {
+      //  text: 'The Analysis of Asia Crimes ',
+      // subtext: 'The Analysis of Asia Crimes',
+      },
+      tooltip: {
+        trigger: 'item',
+        formatter: '{b}<br/>{c} (p / km2)'
+      },
+      toolbox: {
+        show: false,
+        orient: 'vertical',
+        left: 'right',
+        top: 'center',
+        feature: {
+          dataView: {
+            readOnly: false
+          },
+          restore: {},
+          saveAsImage: {}
+        }
+      },
+/*      visualMap: {
+        min: 800,
+        max: 50000,
+        text: ['High', 'Low'],
+        realtime: false,
+        calculable: true,
+        color: ['orangered', 'yellow', 'lightskyblue']
+      },
+      */
+      series: [{
+        name: 'The',
+        type: 'map',
+        mapType: 'json/africa.geo.json',
+        // ?????????
+        itemStyle: {
+          normal: {
+            label: {
+              show: false
+            }
+          },
+          emphasis: {
+            label: {
+              show: true
+            }
+          }
+        },
+      }]
+    });
+  });
+ myChart.setOption(option1,true);
 </script>
-
+<script src="africa.js">
+</script>
+<script type="text/javascript">
+  var echarts;
+  var json=[
+    {"name":"BurglaryBreakingAndEntering","value":664.1253846},
+    {"name":"IntentionalHomicide","value": 189.0776923},
+    {"name":"kidnapping","value": 9.17},
+    {"name":"MotorVehicleTheft","value": 116.3184615},
+    {"name":"rape","value": 126.084},
+    {"name":"robbery","value": 792.2369231},
+    {"name":"SexualOffencesagainstChildren","value": 160.5083333},
+    {"name":"theft","value": 2870.478462},
+];
+var option2 ={
+  title:{
+    text:'Crimes in Africa',
+    x:'center'
+  },
+  tooltip:{
+    trigger:'item',
+    x:'left',
+    data:['BurglaryBreakingAndEntering','IntentionalHomicide','kidnapping','MotorVehicleTheft','rape','robbery','SexualOffencesagainstChildren','theft']
+  },
+          toolbox: {
+            show : true,
+            feature : {
+                mark : {show: true},
+                dataView : {show: true, readOnly: false},
+                magicType : {
+                    show: true, 
+                    type: ['pie', 'funnel'],
+                    option: {
+                        funnel: {
+                            x: '25%',
+                            width: '50%',
+                            funnelAlign: 'left',
+                            max: 1548
+                        }
+                    }
+                },
+                restore : {show: true},
+                saveAsImage : {show: true}
+            }
+        },
+        calculable : true,
+        series:[
+        {
+          name :'data',
+          type:'pie',
+          radius:'55%',
+          center:['50%','60%'],
+          data :json
+        }
+        ]
+};
+echartsPie=echarts.init(document.getElementById('echartsPie'));
+$(function(){
+  echartsPie.setOption(option2);
+})
+</script>
 
 
 </body>
