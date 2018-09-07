@@ -1,38 +1,89 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
 	<title>The Analysis of Global Crimes</title>
-  <script src="echarts.js"></script>
-  <script src="jquery-3.3.1.js"></script>
-  <script src="world.js"></script>
-  <script src="script.js"></script>
+    <script src="js/echarts.js"></script>
+    <script src="js/jquery-3.3.1.js"></script>
+    <script src="js/world.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/style.css"/>
 </head>
 <body>
 
 <div class="container" style="width: 100%;height:50px;background-color: black;z-index: 10;">
   <div id="logo" style="float: left;color: white;">
-    <a href="index.html"><img src="img/logo.png"/></a>
+    <a href="frontpage.html"><img src="img/logo.png"/></a>
     The Analysis of Global Crimes
   </div>
+  <script src="js/script_index.js"></script>
   <div class="nav-menu-container" style="float: right;">
     <ul class="nav-menu">
       <li><a href="index.html">Overview</a></li>
-      <li class="navmenu"><a href="details.html">Details▼</a>
-      	<ul class="nav-submenu">
-      		<li><a href=#>Africa</a></li>
-          	<li><a href=seasia.html>Asia</a></li>
-          	<li><a href=#>Australia</a></li>
-          	<li><a href=#>Europe</a></li>
-          	<li><a href=#>North America</a></li>
-          	<li><a href=#>South America</a></li>
-        </ul>
-  	  </li>
+
+      <li class="navmenu"><a id="a" href="javascript:void(0)" class="dropbtn" onclick="showList(this)">Details▼</a>
+        <div class="nav-submenu" id="nav-submenu-a">
+            <a href="Africa.html">Africa</a>
+            <a href="Asia.html">Asia</a>
+            <a href="Oceania.html">Oceania</a>
+            <a href="Europe.html">Europe</a>
+            <a href="America.html">Americas</a>
+        </div>
+      </li>
       <li><a href="analysis.html">Analysis</a></li>
     </ul>
   </div><!-- #nav-menu-container -->		    		
 </div>
+<div class="blank" style="background-color: black;width: 100%;height: 50px;color: rgb(217,217,217);">
+  <ul id="tab-nav-list" class="tab-nav-list" style="width:100%;">
+    <li class="active">
+      <label><input class="tabToggle hide" type="radio" name="tabToggle" value="0" />
+        <span>Assault</span>
+        </label>
+    </li>
+    <li>
+      <label><input class="tabToggle hide" type="radio" name="tabToggle" value="1" />
+        <span>BurglaryBreakingAndEntering</span>
+        </label>
+    </li>
+    <li>
+      <label><input class="tabToggle hide" type="radio" name="tabToggle" value="2" />
+        <span>IntentionalHomicide</span>
+        </label>
+    </li>
+    <li>
+      <label><input class="tabToggle hide" type="radio" name="tabToggle" value="3" />
+        <span>Kidnapping</span>
+        </label>
+    </li>
+    <li>
+      <label><input class="tabToggle hide" type="radio" name="tabToggle" value="4" />
+        <span>MotorVehicleTheft</span>
+        </label>
+    </li>
+    <li>
+      <label><input class="tabToggle hide" type="radio" name="tabToggle" value="5" />
+        <span>Rape</span>
+        </label>
+    </li>
+    <li>
+      <label><input class="tabToggle hide" type="radio" name="tabToggle" value="6" />
+        <span>Robbery</span>
+        </label>
+    </li>
+    <li>
+      <label><input class="tabToggle hide" type="radio" name="tabToggle" value="7" />
+        <span>SexualOffencesagainstChildren</span>
+        </label>
+    </li>
+    <li>
+      <label><input class="tabToggle hide" type="radio" name="tabToggle" value="8" />
+        <span>Theft</span>
+        </label>
+    </li>
+  </ul>
+</div>
 <div  id="main" style="height:550px;width:100%;"></div>
+<<<<<<< HEAD
 
 <script>
 	 var myChart = echarts.init(document.getElementById('main'));
@@ -256,5 +307,9 @@
  myChart.setOption(option);
 	</script>
 
+=======
+<script type="text/javascript" src="js/crimes.js">
+    </script>
+>>>>>>> upstream/master
 </body>
 </html>>

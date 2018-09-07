@@ -1,0 +1,565 @@
+[
+  {
+    "name": "Albania",
+    "value": 7.21
+  },
+  {
+    "name": "Algeria*",
+    "value": 112.8453846
+  },
+  {
+    "name": "Andorra",
+    "value": 149.2188889
+  },
+  {
+    "name": "Argentina",
+    "value": 373.0916667
+  },
+  {
+    "name": "Armenia",
+    "value": 5.818333333
+  },
+  {
+    "name": "Australia",
+    "value": 296.29375
+  },
+  {
+    "name": "Austria",
+    "value": 44.76333333
+  },
+  {
+    "name": "Azerbaijan",
+    "value": 1.771
+  },
+  {
+    "name": "Bahamas",
+    "value": 828.5575
+  },
+  {
+    "name": "Bahrain",
+    "value": 364.6233333
+  },
+  {
+    "name": "Bangladesh",
+    "value": 0.395
+  },
+  {
+    "name": "Barbados",
+    "value": 546.8466667
+  },
+  {
+    "name": "Belarus",
+    "value": 16.32333333
+  },
+  {
+    "name": "Belgium",
+    "value": 658.8723077
+  },
+  {
+    "name": "Belize",
+    "value": 196.1425
+  },
+  {
+    "name": "Bermuda",
+    "value": 860.9388889
+  },
+  {
+    "name": "Bhutan",
+    "value": 5.373333333
+  },
+  {
+    "name": "Bolivia (Plurinational State of)",
+    "value": 70.435
+  },
+  {
+    "name": "Bosnia and Herzegovina*",
+    "value": 25.686
+  },
+  {
+    "name": "Botswana",
+    "value": 783.91
+  },
+  {
+    "name": "Brazil",
+    "value": 343.51125
+  },
+  {
+    "name": "Brunei Darussalam",
+    "value": 138.595
+  },
+  {
+    "name": "Bulgaria",
+    "value": 40.14153846
+  },
+  {
+    "name": "Burundi",
+    "value": 4.625714286
+  },
+  {
+    "name": "Cabo Verde",
+    "value": 811.635
+  },
+  {
+    "name": "Cameroon*",
+    "value": 20.62333333
+  },
+  {
+    "name": "Canada",
+    "value": 158.0846154
+  },
+  {
+    "name": "Chile",
+    "value": 121.144
+  },
+  {
+    "name": "China, Hong Kong Special Administrative Region",
+    "value": 113.2672727
+  },
+  {
+    "name": "China, Macao Special Administrative Region*",
+    "value": 326.4625
+  },
+  {
+    "name": "Colombia",
+    "value": 126.2258333
+  },
+  {
+    "name": "Costa Rica",
+    "value": 156.46125
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "value": 52.315
+  },
+  {
+    "name": "Croatia",
+    "value": 23.19153846
+  },
+  {
+    "name": "Cyprus",
+    "value": 14.13230769
+  },
+  {
+    "name": "Czechia",
+    "value": 180.7558333
+  },
+  {
+    "name": "Denmark",
+    "value": 134.1515385
+  },
+  {
+    "name": "Dominican Republic",
+    "value": 53.385
+  },
+  {
+    "name": "Ecuador",
+    "value": 47.013
+  },
+  {
+    "name": "Egypt",
+    "value": 0.181666667
+  },
+  {
+    "name": "El Salvador*",
+    "value": 68.43181818
+  },
+  {
+    "name": "Estonia",
+    "value": 8.474545455
+  },
+  {
+    "name": "Finland*",
+    "value": 340.8923077
+  },
+  {
+    "name": "France*",
+    "value": 316.1538462
+  },
+  {
+    "name": "Georgia",
+    "value": 5.30625
+  },
+  {
+    "name": "Germany*",
+    "value": 371.9623077
+  },
+  {
+    "name": "Greece*",
+    "value": 43.68076923
+  },
+  {
+    "name": "Grenada",
+    "value": 1268.670909
+  },
+  {
+    "name": "Guatemala",
+    "value": 45.05727273
+  },
+  {
+    "name": "Guinea",
+    "value": 2.925
+  },
+  {
+    "name": "Guyana*",
+    "value": 1211.965
+  },
+  {
+    "name": "Holy See"
+  },
+  {
+    "name": "Honduras",
+    "value": 28.1325
+  },
+  {
+    "name": "Hungary",
+    "value": 128.1025
+  },
+  {
+    "name": "Iceland",
+    "value": 22.937
+  },
+  {
+    "name": "India",
+    "value": 24.121
+  },
+  {
+    "name": "Indonesia*",
+    "value": 12.94875
+  },
+  {
+    "name": "Iraq (Central Iraq)",
+    "value": 88.57428571
+  },
+  {
+    "name": "Ireland",
+    "value": 312.6215385
+  },
+  {
+    "name": "Israel",
+    "value": 683.2814286
+  },
+  {
+    "name": "Italy",
+    "value": 106.9416667
+  },
+  {
+    "name": "Jamaica*",
+    "value": 145.0233333
+  },
+  {
+    "name": "Japan",
+    "value": 34.65
+  },
+  {
+    "name": "Jordan",
+    "value": 279.5
+  },
+  {
+    "name": "Kazakhstan",
+    "value": 10.085
+  },
+  {
+    "name": "Kenya",
+    "value": 33.58545455
+  },
+  {
+    "name": "Kosovo under UNSCR 1244",
+    "value": 154.4885714
+  },
+  {
+    "name": "Kuwait",
+    "value": 26.46333333
+  },
+  {
+    "name": "Kyrgyzstan",
+    "value": 6.253076923
+  },
+  {
+    "name": "Latvia*",
+    "value": 48.72923077
+  },
+  {
+    "name": "Lebanon",
+    "value": 180.1125
+  },
+  {
+    "name": "Lesotho",
+    "value": 450.2266667
+  },
+  {
+    "name": "Liechtenstein",
+    "value": 233.2615385
+  },
+  {
+    "name": "Lithuania",
+    "value": 9.027692308
+  },
+  {
+    "name": "Luxembourg",
+    "value": 496.8466667
+  },
+  {
+    "name": "Madagascar",
+    "value": 12.24666667
+  },
+  {
+    "name": "Malaysia",
+    "value": 19.11
+  },
+  {
+    "name": "Maldives",
+    "value": 418.3928571
+  },
+  {
+    "name": "Malta*",
+    "value": 44.2575
+  },
+  {
+    "name": "Mauritius",
+    "value": 13.54333333
+  },
+  {
+    "name": "Mexico*",
+    "value": 175.63
+  },
+  {
+    "name": "Monaco",
+    "value": 384.44
+  },
+  {
+    "name": "Mongolia",
+    "value": 195.6492308
+  },
+  {
+    "name": "Montenegro*",
+    "value": 26.26083333
+  },
+  {
+    "name": "Morocco",
+    "value": 125.7122222
+  },
+  {
+    "name": "Mozambique",
+    "value": 4.151666667
+  },
+  {
+    "name": "Myanmar",
+    "value": 6.211428571
+  },
+  {
+    "name": "Nepal",
+    "value": 4.08
+  },
+  {
+    "name": "Netherlands*",
+    "value": 362.1261538
+  },
+  {
+    "name": "New Zealand",
+    "value": 245.684
+  },
+  {
+    "name": "Nicaragua",
+    "value": 338.8666667
+  },
+  {
+    "name": "Nigeria",
+    "value": 9.853333333
+  },
+  {
+    "name": "Norway*",
+    "value": 60.725
+  },
+  {
+    "name": "Oman",
+    "value": 73.775
+  },
+  {
+    "name": "Panama",
+    "value": 150.313
+  },
+  {
+    "name": "Paraguay",
+    "value": 24.73
+  },
+  {
+    "name": "Peru",
+    "value": 99.93916667
+  },
+  {
+    "name": "Poland",
+    "value": 24.14
+  },
+  {
+    "name": "Portugal",
+    "value": 200.1223077
+  },
+  {
+    "name": "Puerto Rico",
+    "value": 76.2075
+  },
+  {
+    "name": "Qatar",
+    "value": 42.13
+  },
+  {
+    "name": "Republic of Korea*",
+    "value": 449.1066667
+  },
+  {
+    "name": "Republic of Moldova*",
+    "value": 9.042
+  },
+  {
+    "name": "Romania*",
+    "value": 47.59076923
+  },
+  {
+    "name": "Russian Federation",
+    "value": 27.24
+  },
+  {
+    "name": "Rwanda",
+    "value": 24.23666667
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "value": 280.2466667
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "value": 1101.63
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "value": 1.623333333
+  },
+  {
+    "name": "Saudi Arabia",
+    "value": 1.39
+  },
+  {
+    "name": "Senegal",
+    "value": 2.546666667
+  },
+  {
+    "name": "Serbia",
+    "value": 15.64545455
+  },
+  {
+    "name": "Sierra Leone",
+    "value": 352.62
+  },
+  {
+    "name": "Singapore",
+    "value": 10.07153846
+  },
+  {
+    "name": "Slovakia",
+    "value": 51.26230769
+  },
+  {
+    "name": "Slovenia",
+    "value": 104.3438462
+  },
+  {
+    "name": "Solomon Islands",
+    "value": 244.718
+  },
+  {
+    "name": "Spain*",
+    "value": 141.3545455
+  },
+  {
+    "name": "Sri Lanka",
+    "value": 257.52125
+  },
+  {
+    "name": "State of Palestine*",
+    "value": 76.08857143
+  },
+  {
+    "name": "Swaziland",
+    "value": 1342.94
+  },
+  {
+    "name": "Sweden",
+    "value": 476.07
+  },
+  {
+    "name": "Switzerland*",
+    "value": 56.11538462
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "value": 22.81
+  },
+  {
+    "name": "Tajikistan",
+    "value": 85.69
+  },
+  {
+    "name": "Thailand*",
+    "value": 26.28545455
+  },
+  {
+    "name": "The former Yugoslav Republic of Macedonia",
+    "value": 12.72777778
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "value": 48.3175
+  },
+  {
+    "name": "Turkey",
+    "value": 230.682
+  },
+  {
+    "name": "Turkmenistan",
+    "value": 1.815
+  },
+  {
+    "name": "Uganda",
+    "value": 76.92333333
+  },
+  {
+    "name": "Ukraine",
+    "value": 11.8925
+  },
+  {
+    "name": "United Arab Emirates",
+    "value": 7.548333333
+  },
+  {
+    "name": "United Kingdom (England and Wales)",
+    "value": 759.3375
+  },
+  {
+    "name": "United Kingdom (Northern Ireland)",
+    "value": 71.20583333
+  },
+  {
+    "name": "United Kingdom (Scotland)*",
+    "value": 796.9991667
+  },
+  {
+    "name": "United Republic of Tanzania",
+    "value": 3.98
+  },
+  {
+    "name": "United States of America",
+    "value": 263.6230769
+  },
+  {
+    "name": "Uruguay",
+    "value": 17.046
+  },
+  {
+    "name": "Yemen",
+    "value": 0.11
+  },
+  {
+    "name": "Zimbabwe",
+    "value": 586.595
+  }
+]
