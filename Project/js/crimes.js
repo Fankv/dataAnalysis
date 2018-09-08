@@ -1820,6 +1820,7 @@ option= {
     },
     geo: {
         map: 'world',
+        roam:true,
         label: {
           normal: {
                     formatter: '{b}',
