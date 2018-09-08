@@ -1896,7 +1896,7 @@ option= {
     ]
 };
 var crime_assault=function(){
-  option.title.text='全球犯罪情况(Assault)(2003-2016平均值)';
+  option.title.text='全球犯罪情况(Assault)(2003-2015平均值)';
   option.visualMap.min=0;
   option.visualMap.max=1350;
   option.series[0].data=convertData(assault);
@@ -1904,7 +1904,7 @@ var crime_assault=function(){
   myChart.setOption(option,true);
 }
 var crime_BurglaryBreakingAndEntering=function(){
-  option.title.text='全球犯罪情况(BurglaryBreakingAndEntering)(2003-2016平均值)';
+  option.title.text='全球犯罪情况(BurglaryBreakingAndEntering)(2003-2015平均值)';
   option.visualMap.min=0;
   option.visualMap.max=1725;
   option.series[0].data=convertData(burglaryBreakingAndEntering);
@@ -1912,7 +1912,7 @@ var crime_BurglaryBreakingAndEntering=function(){
   myChart.setOption(option,true);
 }
 var crime_IntentionalHomicide=function(){
-  option.title.text='全球犯罪情况(IntentionalHomicide)(2003-2016平均值)';
+  option.title.text='全球犯罪情况(IntentionalHomicide)(2003-2015平均值)';
   option.visualMap.min=0;
   option.visualMap.max=75;
   option.series[0].data=convertData(intentionalHomicide);
@@ -1920,7 +1920,7 @@ var crime_IntentionalHomicide=function(){
   myChart.setOption(option,true);
 }
 var crime_kidnapping=function(){
-  option.title.text='全球犯罪情况(Kidnapping)(2003-2016平均值)';
+  option.title.text='全球犯罪情况(Kidnapping)(2003-2015平均值)';
   option.visualMap.min=0;
   option.visualMap.max=18;
   option.series[0].data=convertData(kidnapping);
@@ -1928,7 +1928,7 @@ var crime_kidnapping=function(){
   myChart.setOption(option,true);
 }
 var crime_MotorVehicleTheft=function(){
-  option.title.text='全球犯罪情况(MotorVehicleTheft)(2003-2016平均值)';
+  option.title.text='全球犯罪情况(MotorVehicleTheft)(2003-2015平均值)';
   option.visualMap.min=0;
   option.visualMap.max=1230;
   option.series[0].data=convertData(motorVehicleTheft);
@@ -1936,7 +1936,7 @@ var crime_MotorVehicleTheft=function(){
   myChart.setOption(option,true);
 }
 var crime_rape=function(){
-  option.title.text='全球犯罪情况(Rape)(2003-2016平均值)';
+  option.title.text='全球犯罪情况(Rape)(2003-2015平均值)';
   option.visualMap.min=0;
   option.visualMap.max=105;
   option.series[0].data=convertData(rape);
@@ -1944,7 +1944,7 @@ var crime_rape=function(){
   myChart.setOption(option,true);
 }
 var crime_robbery=function(){
-  option.title.text='全球犯罪情况(Robbery)(2003-2016平均值)';
+  option.title.text='全球犯罪情况(Robbery)(2003-2015平均值)';
   option.visualMap.min=0;
   option.visualMap.max=1116;
   option.series[0].data=convertData(robbery);
@@ -1952,7 +1952,7 @@ var crime_robbery=function(){
   myChart.setOption(option,true);
 }
 var crime_SexualOffencesagainstChildren=function(){
-  option.title.text='全球犯罪情况(SexualOffencesagainstChildren)(2003-2016平均值)';
+  option.title.text='全球犯罪情况(SexualOffencesagainstChildren)(2003-2015平均值)';
   option.visualMap.min=0;
   option.visualMap.max=345;
   option.series[0].data=convertData(sexualOffencesagainstChildren);
@@ -1960,7 +1960,7 @@ var crime_SexualOffencesagainstChildren=function(){
   myChart.setOption(option,true);
 }
 var crime_theft=function(){
-  option.title.text='全球犯罪情况(Theft)(2003-2016平均值)';
+  option.title.text='全球犯罪情况(Theft)(2003-2015平均值)';
   option.visualMap.min=0;
   option.visualMap.max=4212;
   option.series[0].data=convertData(theft);
