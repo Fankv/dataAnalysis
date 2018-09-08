@@ -33,13 +33,68 @@
   </div><!-- #nav-menu-container -->                    
 </div>
 <div class="blank" style="background-color: black;width: 100%;height: 50px;"></div>
-
-<div  id="main" align="center" style="height:550px;width:100%;"></div>
-
-<script src="js/europe.js">
+<div  id="main" style="height:550px;width:60%;float:left;"></div>
+<div id ="echartsPie" style="height:550px;width: 50%;float:left;top:-550px;"></div> 
+<script src="json/asia.geo.json">
 </script>
-
-
-
-</body>
-</html>
+<script src="js/asia.js"></script>
+<script type="text/javascript">
+  var echarts;
+  var json=[
+    {"name":"BurglaryBreakingAndEntering","value":19725.01692},
+    {"name":"IntentionalHomicide","value": 84.98846154},
+    {"name":"kidnapping","value": 60.43909091},
+    {"name":"MotorVehicleTheft","value": 5251.490769},
+    {"name":"rape","value": 385.9},
+    {"name":"robbery","value": 3491.716154},
+    {"name":"SexualOffencesagainstChildren","value":2303.7},
+    {"name":"theft","value": 5692.183308},
+];
+var option2 ={
+  title:{
+    text:'Crimes in Europe',
+    x:'center',
+    y:'top'
+  },
+  tooltip:{
+    trigger:'item',
+    x:'left',
+    data:['BurglaryBreakingAndEntering','IntentionalHomicide','kidnapping','MotorVehicleTheft','rape','robbery','SexualOffencesagainstChildren','theft']
+  },
+          toolbox: {
+            show : false,
+            feature : {
+                mark : {show: true},
+                dataView : {show: true, readOnly: false},
+                magicType : {
+                    show: false, 
+                    type: ['pie', 'funnel'],
+                    option: {
+                        funnel: {
+                            x: '25%',
+                            width: '50%',
+                            funnelAlign: 'left',
+                            max: 1548
+                        }
+                    }
+                },
+                restore : {show: true},
+                saveAsImage : {show: true}
+            }
+        },
+        calculable : true,
+        series:[
+        {
+          name :'data',
+          type:'pie',
+          radius:'55%',
+          center:['50%','60%'],
+          data :json
+        }
+        ]
+};
+echartsPie=echarts.init(document.getElementById('echartsPie'));
+$(function(){
+  echartsPie.setOption(option2);
+})
+</script>

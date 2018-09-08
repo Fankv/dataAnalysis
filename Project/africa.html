@@ -33,79 +33,11 @@
   </div><!-- #nav-menu-container -->                    
 </div>
 <div class="blank" style="background-color: black;width: 100%;height: 50px;"></div>
-
-<!-- <div id="main"></div> -->
-<div  id="main" align="center" style="height:550px;width:100%;"></div>
-<!-- <div id ="echartsPie"></div> -->
-
-
-<!-- <script type="text/javascript">
-  var myChart = echarts.init(document.getElementById('main'));
-  // myChart.showLoading();
-
-  $.get('json/africa.geo.json',
-  function(geoJson) {
-
-    // myChart.hideLoading();
-
-    echarts.registerMap('json/africa.geo.json', geoJson);
-
-    myChart.setOption(option1 = {
-      title: {
-      //  text: 'The Analysis of Asia Crimes ',
-      // subtext: 'The Analysis of Asia Crimes',
-      },
-      tooltip: {
-        trigger: 'item',
-        formatter: '{b}<br/>{c} (p / km2)'
-      },
-      toolbox: {
-        show: false,
-        orient: 'vertical',
-        left: 'right',
-        top: 'center',
-        feature: {
-          dataView: {
-            readOnly: false
-          },
-          restore: {},
-          saveAsImage: {}
-        }
-      },
-/*      visualMap: {
-        min: 800,
-        max: 50000,
-        text: ['High', 'Low'],
-        realtime: false,
-        calculable: true,
-        color: ['orangered', 'yellow', 'lightskyblue']
-      },
-      */
-      series: [{
-        name: 'The',
-        type: 'map',
-        mapType: 'json/africa.geo.json',
-        // ?????????
-        itemStyle: {
-          normal: {
-            label: {
-              show: false
-            }
-          },
-          emphasis: {
-            label: {
-              show: true
-            }
-          }
-        },
-      }]
-    });
-  });
- myChart.setOption(option1,true);
-</script> -->
+<div  id="main" style="height:550px;width:60%;float:left;"></div>
+<div id ="echartsPie" style="height:550px;width: 50%;float:left;top:-550px;"></div> 
 <script src="js/africa.js">
 </script> 
-<!-- <script type="text/javascript">
+ <script type="text/javascript">
   var echarts;
   var json=[
     {"name":"BurglaryBreakingAndEntering","value":664.1253846},
@@ -128,7 +60,7 @@ var option2 ={
     data:['BurglaryBreakingAndEntering','IntentionalHomicide','kidnapping','MotorVehicleTheft','rape','robbery','SexualOffencesagainstChildren','theft']
   },
           toolbox: {
-            show : true,
+            show : false,
             feature : {
                 mark : {show: true},
                 dataView : {show: true, readOnly: false},
@@ -163,7 +95,7 @@ echartsPie=echarts.init(document.getElementById('echartsPie'));
 $(function(){
   echartsPie.setOption(option2);
 })
-</script> -->
+</script>
 
 
 </body>
